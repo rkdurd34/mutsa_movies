@@ -1,0 +1,23 @@
+{
+  "name": "express-mutsa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkdurd34/mutsa_movies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkdurd34/mutsa_movies/issues"
+  },
+  "homepage": "https://github.com/rkdurd34/mutsa_movies#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
